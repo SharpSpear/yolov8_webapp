@@ -1,4 +1,4 @@
 Pillow==9.3.0
 streamlit==1.22.0
 ultralytics==8.0.53
-opecv-python==4.4.0
+opencv-contrib-python==4.4.0.46
