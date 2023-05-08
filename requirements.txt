@@ -3,4 +3,3 @@ streamlit==1.22.0
 ultralytics==8.0.53
 opencv-contrib-python==4.4.0.46
 opencv-python-headless==4.6.0.66
-opencv-python==4.6.0.66
