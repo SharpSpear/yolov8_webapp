@@ -1,0 +1,6 @@
+pathlib
+PIL
+streamlit
+sys
+ultralytics
+opecv-python
